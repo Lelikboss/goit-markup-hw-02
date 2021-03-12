@@ -110,6 +110,9 @@ address {
 }
 
 /* team-section */
+.team{
+    background-color: var(--bg-filter-color);
+}
 .team-list{
 font-size: 16px;
 line-height: 1.18;
